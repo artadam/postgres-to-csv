@@ -12,7 +12,7 @@ services:
     environment:
       POSTGRES_HOST: "172.16.182.32"
       POSTGRES_PORT: "5432"
-      POSTGRES_USER: "areisonoks"
-      POSTGRES_PASSWORD: "Westoma21041"
+      POSTGRES_USER: "your_username"
+      POSTGRES_PASSWORD: "your_password"
       POSTGRES_DB: "test_uris_main"
     #entrypoint: ["python", "main.py"]
