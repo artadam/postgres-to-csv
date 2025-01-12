@@ -41,7 +41,7 @@ def main():
         logging.info(f"Trying to execute: {query}")
         df = pd.read_sql_query(query, engine)
         df.to_csv(output_path, index=False)
-        logging.info(f"Saved to {output_path}")
+        logging.info(f"{output_filename} saved")
     except Exception as e:
         logging.error(f"Failed to execute query or write CSV: {e}")
         sys.exit(1)
