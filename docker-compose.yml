@@ -1,0 +1,18 @@
+version: "3.3"
+
+services:
+  postgres-to-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: postgres-to-csv
+    working_dir: /app
+    volumes:
+      - ./output:/output
+    environment:
+      POSTGRES_HOST: "172.16.182.32"
+      POSTGRES_PORT: "5432"
+      POSTGRES_USER: "areisonoks"
+      POSTGRES_PASSWORD: "Westoma21041"
+      POSTGRES_DB: "test_uris_main"
+    #entrypoint: ["python", "main.py"]

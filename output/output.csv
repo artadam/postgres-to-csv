@@ -1,0 +1,45 @@
+uuid,login_name,name,surname,email,created_at,updated_at,user_position_code,phone,status,last_working_time,id
+ac97fdc3-c258-408f-bb55-4ca1f7b04369,lberglande,Līga,Berglande,liga.berglande@ur.gov.lv,2024-10-09 15:40:39,2024-10-09 15:40:39,notary,67031881,,,
+db4e60f8-2ac1-11ee-be56-0242ac120002,user_04,Valdis,Bērziņš,user04@example.com,2023-06-20 12:21:08,2023-10-09 11:12:07,notary,26626900,unavailable,2023-10-09 11:11:53,
+39df1b8b-b146-437b-951f-a94e67e4aed6,esolmanis519,Egons,Šolmanis,egons.solmanis@visma.com,2024-10-11 10:23:53,2024-10-11 10:23:53,notary,29122519,,,
+2088c7c8-34d6-4a4c-9115-5ccd86a6195d,dzake,Dina,Zaķe,Dina.Zake@ur.gov.lv,2024-03-06 11:57:12,2024-05-17 10:09:37,notary,67031708,available,2024-05-17 10:09:37,
+e4c6b03a-e404-4818-ac7d-d1a99471332b,unelda481,Unda,Nelda Dubova,unda.dubova@visma.com,2024-10-14 10:23:19,2024-10-14 10:23:19,notary,29419481,,,
+037fbbc0-cc0f-44eb-96e4-7e8e51e90460,etriba,Evita,Triba-Černovska,evita.triba-cernovska@ur.gov.lv,2023-10-11 10:02:05,2024-10-18 12:37:04,notary,67031716,unavailable,2024-05-29 16:32:53,14.0
+e70e08fb-e051-492d-bc8d-7ebbb947daa8,mkanepe,Martins,Kanepe,martins.kanepe@ur.gov.lv,2023-10-12 12:55:07,2024-10-23 14:36:52,notary,67031859,unavailable,2024-03-20 12:44:17,
+ac621cd5-a171-4a64-89cc-4002eaf02b6f,admin,Jānis,Adminkovs,j.adminkovs@inbox.lv,2023-10-10 09:27:38,2023-10-10 09:27:51,department_manager,+37122121314,unavailable,,
+b1565d5a-1ed0-4504-83b7-443a78bf0646,eirbe,Egita,Irbe,egita.irbe@ur.gov.lv,2024-03-06 12:05:56,2024-05-27 12:08:10,notary,29542422,unavailable,2024-05-10 12:45:02,
+5982a6d2-d14a-469a-b488-b58660db28c5,aduvina,Aija,Dūviņa,aija.duvina@ur.gov.lv,2024-03-06 12:00:10,2024-05-24 15:06:00,notary2,28236935,unavailable,2024-05-14 14:04:34,
+2eb3c2e3-00e3-485d-a99b-4604a0d09d4d,system,Sistēma,,,,,notary,,unavailable,,99999.0
+f203ef41-98f2-4542-9600-9cbadb4f6df5,anazarovs,Artjoms,Nazarovs,artjoms.nazarovs@ur.gov.lv,2023-12-01 09:33:00,2024-03-18 08:51:23,notary,67031880,unavailable,2024-01-30 13:27:25,
+e73cbd5c-d976-417c-9863-4548763f3926,bvilcina,Benita,Vilciņa,benita.vilcina@ur.gov.lv,2023-08-10 12:24:17,2025-01-07 15:31:46,notary,67031797,available,2025-01-07 15:31:46,5.0
+7ae4a3ae-0f4a-11ee-be56-0242ac120002,user_02,Ivars,Javaitis,ivars.javaitis@gmail.com,2023-06-20 12:21:08,2023-11-22 11:30:48,notary,,unavailable,2023-10-12 10:52:31,
+ac3fb483-6bbb-4aad-8415-aaafb71f693a,rgorbunova,Ruta,Gorbunova-Meisīte,ruta.gorbunova-meisite@ur.gov.lv,2024-11-12 11:39:51,2024-11-12 11:39:51,notary,67031731,,,
+de626054-09bb-4117-b08d-697ab970258b,jjegere,Judīte,Jēģere,judite.jegere@ur.gov.lv,2024-11-12 11:41:53,2024-11-12 11:41:53,notary,67031795,,,
+8e967a00-7436-42a1-968b-7e92e877c079,lnesterenkova,Larisa,Ņesterenkova,Larisa.Nesterenkova@ur.gov.lv,2023-08-10 11:50:00,2025-01-09 12:46:27,department_manager,67031825,busy,2024-04-22 15:29:23,4.0
+7ae4a0a2-0f4a-11ee-be56-0242ac120002,user_01,user_01,Retenais,retenais.j@gmail.com,2023-06-20 12:20:29,2024-07-31 16:46:12,notary,,unavailable,2024-05-20 16:38:14,
+d5dab696-b3c0-4e6f-b6ae-df9fec39d75f,test,Slēgti,Pieteikumi,test@test.test,2023-10-10 20:10:56,2023-10-10 20:11:23,notary,22222222,unavailable,,
+f2f70d64-ae2b-4d3c-a98a-e3ebd757f4db,mjančenko,Marika,Jančenko,Marika.Jancenko@ur.gov.lv,2023-10-24 09:28:00,2024-02-07 14:26:56,notary,67031704,available,2024-02-07 14:26:56,
+0acbaf39-9ac9-4988-8f3f-b4d6398a665a,vzviedre,Viktorija,Zviedre,viktorija.zviedre@ur.gov.lv,2023-08-10 15:11:15,2024-05-22 14:48:44,notary,67031871,available,2024-05-22 14:48:44,6.0
+77a9a46f-ee1c-46fd-81ae-8660a70b348c,sstrautniece,Sanita,Strautniece,sanita.strautniece@ur.gov.lv,2024-11-12 11:44:00,2024-11-12 11:44:00,notary,67031767,,,
+dd0af1d7-a18d-4197-8c18-7f642a715c5b,uradminareisonoks,Uradmin,Areisonoks,areisonoks@gmail.com,2023-08-11 18:53:44,2023-10-20 13:13:06,department_manager,20080918,unavailable,,
+b4b7dd0e-4a98-4e28-a526-da8163586688,mromanovskis,Māris,Romanovskis,maris.romanovskis@ur.gov.lv,2024-03-06 12:02:56,2024-05-28 08:52:22,notary_1,67031728,unavailable,2024-05-14 16:27:53,
+fe44da10-8af0-44b7-9ea7-68a413822774,abikovskis,Armands,Bikovskis,armands.bikovskis@ur.gov.lv,2024-03-06 11:58:52,2024-05-14 16:28:25,notary,67031742,unavailable,2024-05-14 15:47:50,
+525704ee-2ac1-11ee-be56-0242ac120002,user_03,user_03,Skutelis,user03@example.com,2023-06-20 12:21:08,2024-02-06 21:15:21,notary,26626900,unavailable,2023-10-12 19:25:24,
+decdd009-c434-4a0f-bab3-8414cd457033,zerte,Zinta,Erte,Zinta.Erte@ur.gov.lv,2023-08-23 10:27:29,2024-09-30 16:45:59,notary,67031872,unavailable,2024-05-31 08:38:24,9.0
+d2583f34-2dfd-457d-956d-98ae0dce7136,bvasele01,Baiba,Vasele,baiba.vasele@ur.gov.lv,2024-11-12 11:46:13,2024-11-12 11:46:13,notary,67031772,,,
+edffd175-e736-4b60-8c19-aa59c2e45fbb,mjancenko01,Melita,Jančenko,melita.jancenko@ur.gov.lv,2023-09-29 13:04:12,2024-04-03 10:50:16,notary,,unavailable,2023-10-20 12:58:33,
+c487b6db-c85b-4d50-bea7-e95ce9fba528,Klipska,Karīna,Lipska,karina.lipska@ur.gov.lv,2024-11-13 16:24:08,2024-11-13 16:24:08,notary,67031804,,,
+e07a15bf-85b0-442d-9d99-cf1a6190cb43,sdervinika,Sintija,Dervinika,sintija.dervinika@ur.gov.lv,2023-09-26 13:00:10,2024-05-21 11:13:09,notary,20638474,unavailable,2024-05-16 13:45:52,10.0
+6b0226fa-6a71-4ecd-b643-813f8e1f7e9e,areisonoks,Artūrs,Reišonoks,Arturs.Reisonoks@ur.gov.lv,2023-08-11 18:57:30,2024-05-28 16:45:52,department_manager,20080918,busy,2024-01-05 16:54:05,
+40b2effb-943c-48a6-8f33-3e77f44d9804,lstrode,Lilita,Strode,lilita.strode@ur.gov.lv,2024-03-06 12:07:27,2024-05-24 16:06:24,notary_3,67031744,available,2024-05-16 20:35:34,
+df6e5ab5-baf5-4571-817f-3d42a66cef78,amustafajevs,Aigars,Mustafājevs,aigars.mustafajevs@ur.gov.lv,2024-10-09 15:29:10,2024-10-09 15:29:10,notary,22416951,,,
+58e22cfc-3a51-4a26-a01b-3bdba768b731,agrigorjeva04,Arina,Grigorjeva,arina.grigorjeva@ur.gov.lv,2024-10-09 15:32:09,2024-10-09 15:32:09,notary,67031770,,,
+2c127dcf-f534-4a8f-adc7-52074cb0b59c,dkesmina,Daiga,Kesmina,daiga.kesmina@ur.gov.lv,2024-03-06 12:04:28,2024-05-27 09:24:23,notary_3,67031824,available,2024-05-14 13:47:47,
+67ac54e4-0567-4bfe-add3-7333b571d83e,kdike01,Kristīne,Dīķe-Rubika,kristine.dike-rubika@ur.gov.lv,2024-10-09 15:36:10,2024-10-09 15:36:19,notary,67031868,,,
+8aa95af7-10b2-473e-8c8a-c5d827ca8994,eafanasjeva,Elīna,Afanasjeva,elina.afanasjeva@ur.gov.lv,2024-10-09 15:34:46,2024-10-09 15:36:38,notary,67031760,,,
+1d10d5a9-5a8d-41d8-9742-c1efafc14f7a,vveliks01,Viktors,Veliks,viktors.veliks@ur.gov.lv,2023-10-12 12:53:10,2024-11-14 11:33:29,notary,67031897,unavailable,2023-10-20 12:59:38,
+550e9113-5e5c-41ba-83ea-5966d39472d8,vkalnina05,Vikija,Kalniņa,vikija.kalnina@ur.gov.lv,2024-10-09 15:39:29,2024-10-09 15:39:29,notary,67031853,,,
+21f2b4a8-394a-4d06-988f-2c6e7e018ac2,askuja,Antra,Skuja,antra.skuja@ur.gov.lv,2024-04-25 11:55:21,2024-11-14 12:24:09,department_manager,67031818,,,
+4441f3a3-a702-4741-8e7a-7386985a67ff,kbeca,Kristena,Beca,kristena.beca@ur.gov.lv,2024-11-15 14:25:29,2024-11-15 14:25:29,notary,67031719,,,
+eb30dd42-f0c4-4a1f-91e2-3d6ca0a89156,rrebaine976,Rebeka Annemarija,Rebaine,rebeka.rebaine@visma.com,2024-11-20 10:59:13,2024-11-20 10:59:13,notary,,,,
+7400bff0-aab5-4048-a838-78e483bc0488,vgabrans,Valdis,Gabrāns,valdis.gabrans@ur.gov.lv,2023-10-12 12:54:18,2024-12-05 15:30:08,notary,,unavailable,2024-02-07 13:44:27,
