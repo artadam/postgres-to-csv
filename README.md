@@ -4,5 +4,10 @@ docker-compose build
 ```
 
 ```
-docker-compose run postgres-to-csv "SELECT * FROM public.users" output.csv
+docker-compose run --rm postgres-to-csv "SELECT * FROM public.users" output.csv
+```
+
+From file:
+```
+docker-compose run --rm postgres-to-csv "$(cat test.sql)" output.csv
 ```
