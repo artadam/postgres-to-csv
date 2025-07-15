@@ -10,6 +10,7 @@ services:
     volumes:
       - ./output:/output
     environment:
+      TZ: "Europe/Riga"
       POSTGRES_HOST: "172.16.182.32"
       POSTGRES_PORT: "5432"
       POSTGRES_USER: "your_username"
