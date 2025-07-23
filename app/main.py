@@ -17,6 +17,7 @@ def main():
     db_user = os.getenv("POSTGRES_USER")
     db_password = os.getenv("POSTGRES_PASSWORD")
     db_name = os.getenv("POSTGRES_DB")
+    csv_separator = os.getenv("CSV_SEPARATOR", ",")  # Default is comma
 
     # Get values
     if len(sys.argv) < 3:
@@ -40,8 +41,8 @@ def main():
     try:
         logging.info(f"Trying to execute: {query}")
         df = pd.read_sql_query(query, engine)
-        df.to_csv(output_path, index=False)
-        logging.info(f"{output_filename} saved")
+        df.to_csv(output_path, index=False, sep=csv_separator)
+        logging.info(f"{output_filename} saved with separator '{csv_separator}'")
     except Exception as e:
         logging.error(f"Failed to execute query or write CSV: {e}")
         sys.exit(1)
