@@ -16,3 +16,4 @@ services:
       POSTGRES_USER: "your_username"
       POSTGRES_PASSWORD: "your_password"
       POSTGRES_DB: "test_uris_main"
+      CSV_SEPARATOR: ";"
